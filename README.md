@@ -147,7 +147,7 @@ public class presSpringXml {
 
 ### Résultat
 
-![Spring XML Injection](img/xml.png)
+![Spring XML Injection](src/img/xml.png)
 
 ---
 
@@ -198,6 +198,6 @@ public class presSpringAnnotation {
 
 ### Résultat
 
-![Annotation Injection](img/annotation.png)
+![Annotation Injection](src/img/annotation.png)
 
 ---
