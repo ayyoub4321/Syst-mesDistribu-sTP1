@@ -198,9 +198,3 @@ public class presSpringAnnotation {
 ![Annotation Injection](img/annotation.png)
 
 ---
-
-### Notes
-
-* Vérifier les chemins relatifs (ressources vs classpath).
-* Placer toutes les captures d’écran dans `img/`.
-* Adapter `config.txt` et `config.xml` selon vos besoins.
