@@ -64,7 +64,7 @@ public class PresStat {
 
 ### Résultat
 
-![Manual Injection](img/static.png)
+![Manual Injection](src/img/static.png)
 
 ---
 
