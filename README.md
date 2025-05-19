@@ -104,7 +104,7 @@ p17.Metier.Metier
 
 ### Résultat
 
-![Dynamic Injection](img/dynamique.png)
+![Dynamic Injection](src/img/dynamique.png)
 
 ---
 
